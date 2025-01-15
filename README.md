@@ -1,5 +1,5 @@
 # Awesome Auto-regressive in GenerativeAI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome auto-regressive papers in generative AI, inspired by [awesome-NeRF](https://raw.githubusercontent.com/awesome-NeRF).
+A curated list of awesome auto-regressive papers in generative AI, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 ### 3D Generation
 <details open>
