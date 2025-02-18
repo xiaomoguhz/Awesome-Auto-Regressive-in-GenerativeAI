@@ -5,6 +5,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+- [MARS: Mesh AutoRegressive Model for 3D Shape Detailization](https://arxiv.org/abs/2502.11390), Gao et al., arXiv 2025
 - [Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation](https://arxiv.org/abs/2501.14317), Wang et al., arXiv 2025 | [Project](https://nautilusmeshgen.github.io/) | [Code](https://github.com/yuxuan-w/nautilus)
 - [3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation](https://arxiv.org/abs/2412.02202), Zhang et al., arXiv 2024 | [Project](https://sparse-mvs-2.github.io/VAT.IO/) | [Code](https://github.com/sparse-mvs-2/VAT)
 - [3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes](https://arxiv.org/abs/2411.19037), Medi et al., arXiv 2024 
@@ -23,9 +24,15 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
+<summary>Articulated object generation</summary>
+
+- [MeshArt: Generating Articulated Meshes with Structure-guided Transformers](https://arxiv.org/abs/2412.11596), Gao et al., arXiv 2024 | [Project](https://daoyig.github.io/Mesh_Art/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/embed/0XaHFbmb_FQ?si=xKZOdhQDNFMmUmm5) | [Data](https://syncandshare.lrz.de/getlink/fi4Moni3SkJJeFA8HAEZdR/release_v1)
+</details>
+
+<details open>
 <summary>Automatic rigging</summary>
 
-- [MagicArticulate: Make Your 3D Models Articulation-Ready](), Song et al., arXiv 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
+- [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Song et al., arXiv 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
 - [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., arXiv 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
 </details>
 
