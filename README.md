@@ -5,8 +5,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+- [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](), Zhang et al., arXiv 2025
 - [MARS: Mesh AutoRegressive Model for 3D Shape Detailization](https://arxiv.org/abs/2502.11390), Gao et al., arXiv 2025
 - [Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation](https://arxiv.org/abs/2501.14317), Wang et al., arXiv 2025 | [Project](https://nautilusmeshgen.github.io/) | [Code](https://github.com/yuxuan-w/nautilus)
+- [TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction](https://arxiv.org/abs/2412.16919), Zhang et al., arXiv 2024 | [Code](https://github.com/HVision-NKU/TAR3D)
 - [3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation](https://arxiv.org/abs/2412.02202), Zhang et al., arXiv 2024 | [Project](https://sparse-mvs-2.github.io/VAT.IO/) | [Code](https://github.com/sparse-mvs-2/VAT)
 - [3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes](https://arxiv.org/abs/2411.19037), Medi et al., arXiv 2024 
 - [Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025), Weng et al., arXiv 2024 | [Project](https://whaohan.github.io/bpt/) | [Code](https://github.com/whaohan/bpt)
