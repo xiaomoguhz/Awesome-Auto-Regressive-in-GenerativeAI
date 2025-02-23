@@ -3,6 +3,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 
 <p align="center">
 <img src="assets/demo_meshanythingv2.gif" width="240px"/> 
+<img src="assets/meshart_teaser.gif" width="240px"/> 
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </p>
 
 <p align="center">
-(Source: <a href="https://buaacyw.github.io/meshanything-v2/">MeshAnythingV2</a>, and <a href="https://chaoyuesong.github.io/MagicArticulate/">MagicArticulate</a>.)
+(Source: <a href="https://buaacyw.github.io/meshanything-v2/">MeshAnythingV2</a>, <a href="https://daoyig.github.io/Mesh_Art/">MeshArt</a>, and <a href="https://chaoyuesong.github.io/MagicArticulate/">MagicArticulate</a>.)
 </p>
 
 ### 3D Generation
