@@ -1,6 +1,18 @@
 # Awesome Auto-regressive in GenerativeAI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome auto-regressive papers in generative AI, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
+<p align="center">
+<img src="assets/demo_meshanythingv2.gif" width="240px"/> 
+</p>
+
+<p align="center">
+<img src="assets/MagicArticulate_teaser.gif" width="480px"/>  
+</p>
+
+<p align="center">
+(Source: <a href="https://buaacyw.github.io/meshanything-v2/">MeshAnythingV2</a>, and <a href="https://chaoyuesong.github.io/MagicArticulate/">MagicArticulate</a>.)
+</p>
+
 ### 3D Generation
 <details open>
 <summary>3D shape generation</summary>
