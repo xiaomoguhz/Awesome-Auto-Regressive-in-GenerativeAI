@@ -54,6 +54,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Motion generation</summary>
 
+- [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/abs/2502.20323), Chu et al., arXiv 2025 | [Project](https://xg-chu.site/project_artalk/)
 - [ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model](https://arxiv.org/abs/2412.14559), Lu et al., arXiv 2024 | [Project](https://shunlinlu.github.io/ScaMo/) | [Code](https://github.com/shunlinlu/ScaMo_code)
 - [Synergy and Synchrony in Couple Dances](https://arxiv.org/abs/2409.04440), Maluleke et al., arXiv 2024 | [Project](https://von31.github.io/synNsync/)
 - [BAMM: Bidirectional Autoregressive Motion Model](https://arxiv.org/abs/2403.19435), Pinyoanuntapong et al., ECCV 2024 | [Project](https://exitudio.github.io/BAMM-page/) | [Code](https://github.com/exitudio/BAMM/)
@@ -87,6 +88,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
+- [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://arxiv.org/abs/2502.20313), Jiao et al., arXiv 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/jiaosiyu1999/FlexVAR)
+- [Autoregressive Image Generation Guided by Chains of Thought](https://arxiv.org/abs/2502.16965), Cai et al., arXiv 2025
 - [Parallelized Autoregressive Visual Generation](https://arxiv.org/abs/2412.15119), Wang et al., arXiv 2024 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/Epiphqny/PAR)
 - [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://arxiv.org/abs/2412.01827), Pang et al., arXiv 2024 | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)
 - [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), Yu et al., arXiv 2024 | [Project](https://yucornetto.github.io/projects/rar.html) | [Code](https://github.com/bytedance/1d-tokenizer) | [Demo](https://huggingface.co/spaces/yucornetto/RAR)
