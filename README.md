@@ -109,7 +109,11 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328), Van den Oord et al., NIPS 2016 | [Code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)
 </details>
 
+<details open>
+<summary>Medical image generation</summary>
 
+- [Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction](https://arxiv.org/abs/2502.04521), Nezhad et al., arXiv 2025
+</details>
 
 ### Video generation
 
