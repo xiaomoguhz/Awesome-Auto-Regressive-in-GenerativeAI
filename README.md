@@ -89,6 +89,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [NFIG: Autoregressive Image Generation with Next-Frequency Prediction](https://arxiv.org/abs/2503.07076), Huang et al., arXiv 2025
 - [Frequency Autoregressive Image Generation with Continuous Tokens](https://arxiv.org/abs/2503.05305), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/FAR.html) | [Code](https://github.com/yuhuUSTC/FAR)
 - [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
 - [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://arxiv.org/abs/2502.20313), Jiao et al., arXiv 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/jiaosiyu1999/FlexVAR)
