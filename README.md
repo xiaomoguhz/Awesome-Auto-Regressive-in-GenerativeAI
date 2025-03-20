@@ -18,8 +18,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+- [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/abs/2503.15265), Zhao et al., arXiv 2025 | [Project](https://zhaorw02.github.io/DeepMesh/) | [Code](https://github.com/zhaorw02/DeepMesh)
 - [MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425), Li et al., arXiv 2025 | [Project](https://derkleineli.github.io/meshpad/) | [Video](https://www.youtube.com/watch?v=ql37mWf4pg8)
-- [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](), Zhang et al., arXiv 2025
+- [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](https://arxiv.org/abs/2503.12929), Zhang et al., arXiv 2025 | [Project](https://zhangxuying1004.github.io/projects/AR123/) | [Code](https://github.com/HVision-NKU/AR123)
 - [MARS: Mesh AutoRegressive Model for 3D Shape Detailization](https://arxiv.org/abs/2502.11390), Gao et al., arXiv 2025
 - [Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation](https://arxiv.org/abs/2501.14317), Wang et al., arXiv 2025 | [Project](https://nautilusmeshgen.github.io/) | [Code](https://github.com/yuxuan-w/nautilus)
 - [TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction](https://arxiv.org/abs/2412.16919), Zhang et al., arXiv 2024 | [Code](https://github.com/HVision-NKU/TAR3D)
