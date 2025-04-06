@@ -18,6 +18,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+- [Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization](https://arxiv.org/abs/2504.02817), Deng et al., arXiv 2025 | [Project](https://oat-3d.github.io/)
+- [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](https://arxiv.org/abs/2503.11629), Lionar et al., CVPR 2025 | [Code](https://github.com/sail-sg/TreeMeshGPT)
 - [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/abs/2503.15265), Zhao et al., arXiv 2025 | [Project](https://zhaorw02.github.io/DeepMesh/) | [Code](https://github.com/zhaorw02/DeepMesh)
 - [MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425), Li et al., arXiv 2025 | [Project](https://derkleineli.github.io/meshpad/) | [Video](https://www.youtube.com/watch?v=ql37mWf4pg8)
 - [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](https://arxiv.org/abs/2503.12929), Zhang et al., arXiv 2025 | [Project](https://zhangxuying1004.github.io/projects/AR123/) | [Code](https://github.com/HVision-NKU/AR123)
@@ -90,6 +92,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens](https://arxiv.org/abs/2503.17155), Wang et al., arXiv 2025
+- [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.10696), Fan et al., arXiv 2025
+- [Neighboring Autoregressive Modeling for Efficient Visual Generation](https://arxiv.org/abs/2503.10696), He et al., arXiv 2025 | [Project](https://yuanyu0.github.io/nar/) | [Code](https://github.com/ThisisBillhe/NAR)
 - [NFIG: Autoregressive Image Generation with Next-Frequency Prediction](https://arxiv.org/abs/2503.07076), Huang et al., arXiv 2025
 - [Frequency Autoregressive Image Generation with Continuous Tokens](https://arxiv.org/abs/2503.05305), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/FAR.html) | [Code](https://github.com/yuhuUSTC/FAR)
 - [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
@@ -124,6 +129,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Video generation</summary>
 
+- [AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](https://arxiv.org/abs/2503.07418), Sun et al., CVPR 2025 | [Project](https://anonymouss765.github.io/AR-Diffusion) | [Code](https://github.com/iva-mzsun/AR-Diffusion)
 - [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169), Deng et al., ICLR 2025 | [Code](https://github.com/baaivision/NOVA)
 - [DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models](https://arxiv.org/abs/2412.04446), Li et al., arXiv 2024 | [Project](https://liyizhuo.com/DiCoDe/)
 - [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151), Xie et al., arXiv 2024 | [Project](https://desaixie.github.io/pa-vdm/) | [Code](https://github.com/desaixie/pa_vdm)
