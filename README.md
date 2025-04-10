@@ -76,6 +76,12 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
+<summary>Camera generation</summary>
+
+- [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083), Zhang et al., arXiv 2025 | [Project](https://kszpxxzmc.github.io/GenDoP/) | [Code](https://github.com/3DTopia/GenDoP)
+</details>
+
+<details open>
 <summary>Garment generation</summary>
 
 - [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](https://arxiv.org/abs/2401.16465), He et al., SIGGRAPH 2024 | [Project](https://ihe-kaii.github.io/DressCode/) | [Code](https://github.com/IHe-KaiI/DressCode) | [Video](https://www.youtube.com/watch?v=ofFyJBKL-Qg&feature=youtu.be)
