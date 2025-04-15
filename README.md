@@ -18,6 +18,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+- [OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation](https://arxiv.org/abs/2504.09975), Wei et al., SIGGRAPH 2025 | [Code](https://github.com/octree-nn/octgpt)
 - [Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization](https://arxiv.org/abs/2504.02817), Deng et al., arXiv 2025 | [Project](https://oat-3d.github.io/)
 - [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](https://arxiv.org/abs/2503.11629), Lionar et al., CVPR 2025 | [Code](https://github.com/sail-sg/TreeMeshGPT)
 - [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/abs/2503.15265), Zhao et al., arXiv 2025 | [Project](https://zhaorw02.github.io/DeepMesh/) | [Code](https://github.com/zhaorw02/DeepMesh)
@@ -98,6 +99,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing](https://arxiv.org/abs/2504.10434), Hu et al., arXiv 2025 | [Code](https://github.com/hutaiHang/ATM)
 - [D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens](https://arxiv.org/abs/2503.17155), Wang et al., arXiv 2025
 - [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.10696), Fan et al., arXiv 2025
 - [Neighboring Autoregressive Modeling for Efficient Visual Generation](https://arxiv.org/abs/2503.10696), He et al., arXiv 2025 | [Project](https://yuanyu0.github.io/nar/) | [Code](https://github.com/ThisisBillhe/NAR)
@@ -106,6 +108,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
 - [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://arxiv.org/abs/2502.20313), Jiao et al., arXiv 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/jiaosiyu1999/FlexVAR)
 - [Autoregressive Image Generation Guided by Chains of Thought](https://arxiv.org/abs/2502.16965), Cai et al., arXiv 2025
+- [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), Han et al., arXiv 2024 | [Project](https://foundationvision.github.io/infinity.project/) | [Code](https://github.com/FoundationVision/Infinity)
 - [Parallelized Autoregressive Visual Generation](https://arxiv.org/abs/2412.15119), Wang et al., CVPR 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/Epiphqny/PAR)
 - [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://arxiv.org/abs/2412.01827), Pang et al., CVPR 2025 | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)
 - [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), Yu et al., arXiv 2024 | [Project](https://yucornetto.github.io/projects/rar.html) | [Code](https://github.com/bytedance/1d-tokenizer) | [Demo](https://huggingface.co/spaces/yucornetto/RAR)
