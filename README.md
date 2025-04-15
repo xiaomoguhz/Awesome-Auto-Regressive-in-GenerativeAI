@@ -99,6 +99,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](https://arxiv.org/abs/2504.08736), Xiong et al., arXiv 2025 | [Project](https://silentview.github.io/GigaTok/) | [Code](https://github.com/SilentView/GigaTok)
 - [Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing](https://arxiv.org/abs/2504.10434), Hu et al., arXiv 2025 | [Code](https://github.com/hutaiHang/ATM)
 - [D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens](https://arxiv.org/abs/2503.17155), Wang et al., arXiv 2025
 - [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.10696), Fan et al., arXiv 2025
