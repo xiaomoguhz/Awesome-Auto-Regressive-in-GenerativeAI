@@ -99,6 +99,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [Personalized Text-to-Image Generation with Auto-Regressive Models](https://arxiv.org/abs/2504.13162), Sun et al., arXiv 2025 | [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
 - [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Kim et al., CVPR 2025 Oral | [Code](https://github.com/alsdudrla10/ARD)
 - [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455), Wang et al., arXiv 2025 | [Code](https://github.com/wdrink/SimpleAR)
 - [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](https://arxiv.org/abs/2504.08736), Xiong et al., arXiv 2025 | [Project](https://silentview.github.io/GigaTok/) | [Code](https://github.com/SilentView/GigaTok)
