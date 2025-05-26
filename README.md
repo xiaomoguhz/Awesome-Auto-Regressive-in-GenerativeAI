@@ -59,6 +59,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Motion generation</summary>
 
+- [Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion](https://arxiv.org/abs/2505.11013), Zhang et al., arXiv 2025
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/abs/2502.20323), Chu et al., arXiv 2025 | [Project](https://xg-chu.site/project_artalk/)
 - [ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model](https://arxiv.org/abs/2412.14559), Lu et al., arXiv 2024 | [Project](https://shunlinlu.github.io/ScaMo/) | [Code](https://github.com/shunlinlu/ScaMo_code)
 - [Synergy and Synchrony in Couple Dances](https://arxiv.org/abs/2409.04440), Maluleke et al., arXiv 2024 | [Project](https://von31.github.io/synNsync/)
@@ -85,6 +86,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Garment generation</summary>
 
+
+- [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/abs/2504.20409), Guo et al., arXiv 2025
 - [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](https://arxiv.org/abs/2401.16465), He et al., SIGGRAPH 2024 | [Project](https://ihe-kaii.github.io/DressCode/) | [Code](https://github.com/IHe-KaiI/DressCode) | [Video](https://www.youtube.com/watch?v=ofFyJBKL-Qg&feature=youtu.be)
 </details>
 
@@ -99,6 +102,15 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration](https://arxiv.org/abs/2505.18047), Rajagopalan et al., arXiv 2025 | [Project](https://sudraj2002.github.io/restorevarpage/)
+- [Conditional Panoramic Image Generation via Masked Autoregressive Modeling](https://arxiv.org/abs/2505.16862), Li et al., arXiv 2025 | [Project](https://wang-chaoyang.github.io/project/par/)
+- [TensorAR: Refinement is All You Need in Autoregressive Image Generation](https://arxiv.org/abs/2505.16324), Cheng et al., arXiv 2025
+- [MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning](https://arxiv.org/abs/2505.12742), Zhang et al., arXiv 2025 | [Code](https://github.com/LabShuHangGU/MVAR)
+- [VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/abs/2505.13439), Lin et al., arXiv 2025 | [Code](https://github.com/huawei-lin/VTBench)
+- [MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning](https://arxiv.org/abs/2505.12742), Zhang et al., arXiv 2025 | [Code](https://github.com/LabShuHangGU/MVAR)
+- [VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/abs/2505.13439), Lin et al., arXiv 2025 | [Code](https://github.com/huawei-lin/VTBench)
+- [Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models](https://arxiv.org/abs/2504.17789), Ma et al., arXiv 2025 | [Project](https://ma-xu.github.io/token-shuffle/)
+- [Distilling Semantically Aware Orders for Autoregressive Image Generation](https://arxiv.org/abs/2504.13162), Pramanik et al., arXiv 2025
 - [Personalized Text-to-Image Generation with Auto-Regressive Models](https://arxiv.org/abs/2504.13162), Sun et al., arXiv 2025 | [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
 - [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Kim et al., CVPR 2025 Oral | [Code](https://github.com/alsdudrla10/ARD)
 - [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455), Wang et al., arXiv 2025 | [Code](https://github.com/wdrink/SimpleAR)
@@ -142,6 +154,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Video generation</summary>
 
+- [Video-GPT via Next Clip Diffusion](https://arxiv.org/abs/2505.12489), Zhuang et al., arXiv 2025 | [Project](https://zhuangshaobin.github.io/Video-GPT.github.io/) | [Code](https://github.com/zhuangshaobin/Video-GPT)
+- [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211), Sand.ai, arXiv 2025 | [Project](https://sand.ai/) | [Code](https://github.com/SandAI-org/MAGI-1)
+- [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://arxiv.org/abs/2504.12626), Zhang et al., arXiv 2025 | [Code](https://github.com/lllyasviel/FramePack)
 - [AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](https://arxiv.org/abs/2503.07418), Sun et al., CVPR 2025 | [Project](https://anonymouss765.github.io/AR-Diffusion) | [Code](https://github.com/iva-mzsun/AR-Diffusion)
 - [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169), Deng et al., ICLR 2025 | [Code](https://github.com/baaivision/NOVA)
 - [DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models](https://arxiv.org/abs/2412.04446), Li et al., arXiv 2024 | [Project](https://liyizhuo.com/DiCoDe/)
