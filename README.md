@@ -102,6 +102,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+- [DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction](https://arxiv.org/abs/2505.21473), Liu et al., arXiv 2025 | [Code](https://github.com/ByteFlow-AI/DetailFlow)
+- [DiSA: Diffusion Step Annealing in Autoregressive Image Generation](https://arxiv.org/abs/2505.20297), Zhao et al., arXiv 2025 | [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
+- [Hierarchical Masked Autoregressive Models with Low-Resolution Token Pivots](https://arxiv.org/abs/2505.20288), Zheng et al., ICML 2025 | [Code](https://github.com/HiDream-ai/himar)
 - [RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration](https://arxiv.org/abs/2505.18047), Rajagopalan et al., arXiv 2025 | [Project](https://sudraj2002.github.io/restorevarpage/)
 - [Conditional Panoramic Image Generation via Masked Autoregressive Modeling](https://arxiv.org/abs/2505.16862), Li et al., arXiv 2025 | [Project](https://wang-chaoyang.github.io/project/par/)
 - [TensorAR: Refinement is All You Need in Autoregressive Image Generation](https://arxiv.org/abs/2505.16324), Cheng et al., arXiv 2025
