@@ -18,6 +18,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
+
+- [LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework](https://arxiv.org/abs/2505.24245), Kang et al., arXiv 2025
 - [OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation](https://arxiv.org/abs/2504.09975), Wei et al., SIGGRAPH 2025 | [Code](https://github.com/octree-nn/octgpt)
 - [Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization](https://arxiv.org/abs/2504.02817), Deng et al., arXiv 2025 | [Project](https://oat-3d.github.io/)
 - [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](https://arxiv.org/abs/2503.11629), Lionar et al., CVPR 2025 | [Code](https://github.com/sail-sg/TreeMeshGPT)
@@ -102,6 +104,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
+
+- [ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL](https://arxiv.org/abs/2505.24875), Zhang et al., arXiv 2025 | [Project](https://reasongen-r1.github.io/) | [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
+- [REOrdering Patches Improves Vision Models](https://arxiv.org/abs/2505.23751), Kutscher et al., arXiv 2025 | [Project](https://d3tk.github.io/REOrder/) | [Code](https://github.com/d3tk/REOrder)
 - [D-AR: Diffusion via Autoregressive Models](https://arxiv.org/abs/2505.23660), Gao et al., arXiv 2025 | [Code](https://github.com/showlab/D-AR)
 - [Fine-Tuning Next-Scale Visual Autoregressive Models with Group Relative Policy Optimization](https://arxiv.org/abs/2505.23331), Gallici et al., arXiv 2025
 - [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740), Wu et al., arXiv 2025 | [Project](https://layerpeeler.github.io/)
