@@ -14,6 +14,12 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 (Source: <a href="https://buaacyw.github.io/meshanything-v2/">MeshAnythingV2</a>, <a href="https://daoyig.github.io/Mesh_Art/">MeshArt</a>, and <a href="https://chaoyuesong.github.io/MagicArticulate/">MagicArticulate</a>.)
 </p>
 
+## Table of contents
+
+- [3D Generation](#3d-generation)
+- [Image generation](#image-generation)
+- [Video generation](#video-generation)
+
 <details span>
 <summary><b>Change Log:</b></summary>
 
