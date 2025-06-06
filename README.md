@@ -17,8 +17,16 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 ## Table of contents
 
 - [3D Generation](#3d-generation)
-- [Image generation](#image-generation)
-- [Video generation](#video-generation)
+  - [3D Shape Generation](#3D-SHAPE-generation)  
+  - [Articulated Object Generation](#articulated-object-generation)  
+  - [Automatic Rigging](#automatic-rigging)  
+  - [Motion Generation](#motion-generation)
+  - [4D Generation](#4d-generation)  
+  - [Camera Generation](#camera-generation)
+  - [Garment Generation](#garment-generation)  
+  - [CAD Generation](#cad-generation)
+- [Image Generation](#image-generation)
+- [Video Generation](#video-generation)
 
 <details span>
 <summary><b>Change Log:</b></summary>
@@ -30,7 +38,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 
 ### 3D Generation
 <details open>
-<summary>3D shape generation</summary>
+<summary>3D Shape Generation</summary>
 
 
 - [LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework](https://arxiv.org/abs/2505.24245), Kang et al., arXiv 2025
@@ -60,20 +68,20 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
-<summary>Articulated object generation</summary>
+<summary>Articulated Object Generation</summary>
 
 - [MeshArt: Generating Articulated Meshes with Structure-guided Transformers](https://arxiv.org/abs/2412.11596), Gao et al., arXiv 2024 | [Project](https://daoyig.github.io/Mesh_Art/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/embed/0XaHFbmb_FQ?si=xKZOdhQDNFMmUmm5) | [Data](https://syncandshare.lrz.de/getlink/fi4Moni3SkJJeFA8HAEZdR/release_v1)
 </details>
 
 <details open>
-<summary>Automatic rigging</summary>
+<summary>Automatic Rigging</summary>
 
 - [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Song et al., CVPR 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
 - [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., arXiv 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
 </details>
 
 <details open>
-<summary>Motion generation</summary>
+<summary>Motion Generation</summary>
 
 - [Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion](https://arxiv.org/abs/2505.11013), Zhang et al., arXiv 2025
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/abs/2502.20323), Chu et al., arXiv 2025 | [Project](https://xg-chu.site/project_artalk/)
@@ -88,19 +96,19 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
-<summary>4D generation</summary>
+<summary>4D Generation</summary>
 
 - [AR4D: Autoregressive 4D Generation from Monocular Videos](https://arxiv.org/abs/2501.01722), Zhu et al., arXiv 2025 | [Project](https://hanxinzhu-lab.github.io/AR4D/)
 </details>
 
 <details open>
-<summary>Camera generation</summary>
+<summary>Camera Generation</summary>
 
 - [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083), Zhang et al., arXiv 2025 | [Project](https://kszpxxzmc.github.io/GenDoP/) | [Code](https://github.com/3DTopia/GenDoP)
 </details>
 
 <details open>
-<summary>Garment generation</summary>
+<summary>Garment Generation</summary>
 
 
 - [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/abs/2504.20409), Guo et al., arXiv 2025
@@ -108,15 +116,15 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
-<summary>CAD generation</summary>
+<summary>CAD Generation</summary>
 
 - [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632), Xu et al., ICML 2022 | [Project](https://samxuxiang.github.io/skexgen/) | [Code](https://github.com/samxuxiang/SkexGen) | [Video](https://www.youtube.com/watch?v=j5LB7yMwNVE)
 </details>
 
-### Image generation
+### Image Generation
 
 <details open>
-<summary>Image generation</summary>
+<summary>Image Generation</summary>
 
 - [AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model](https://arxiv.org/abs/2506.05289), Wu et al., arXiv 2025 | [Code](https://github.com/ali-vilab/alitok)
 - [HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](https://arxiv.org/abs/2506.04421), Kumbong et al., arXiv 2025
@@ -151,6 +159,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
 - [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://arxiv.org/abs/2502.20313), Jiao et al., arXiv 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/jiaosiyu1999/FlexVAR)
 - [Autoregressive Image Generation Guided by Chains of Thought](https://arxiv.org/abs/2502.16965), Cai et al., arXiv 2025
+- [Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction](https://arxiv.org/abs/2502.04521), Nezhad et al., arXiv 2025
 - [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), Han et al., arXiv 2024 | [Project](https://foundationvision.github.io/infinity.project/) | [Code](https://github.com/FoundationVision/Infinity)
 - [Parallelized Autoregressive Visual Generation](https://arxiv.org/abs/2412.15119), Wang et al., CVPR 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/Epiphqny/PAR)
 - [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://arxiv.org/abs/2412.01827), Pang et al., CVPR 2025 | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)
@@ -170,16 +179,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328), Van den Oord et al., NIPS 2016 | [Code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)
 </details>
 
-<details open>
-<summary>Medical image generation</summary>
-
-- [Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction](https://arxiv.org/abs/2502.04521), Nezhad et al., arXiv 2025
-</details>
-
 ### Video generation
 
 <details open>
-<summary>Video generation</summary>
+<summary>Video Generation</summary>
 
 - [Video-GPT via Next Clip Diffusion](https://arxiv.org/abs/2505.12489), Zhuang et al., arXiv 2025 | [Project](https://zhuangshaobin.github.io/Video-GPT.github.io/) | [Code](https://github.com/zhuangshaobin/Video-GPT)
 - [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211), Sand.ai, arXiv 2025 | [Project](https://sand.ai/) | [Code](https://github.com/SandAI-org/MAGI-1)
