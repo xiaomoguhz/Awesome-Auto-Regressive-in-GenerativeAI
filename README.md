@@ -37,6 +37,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <br>
 
 ### 3D Generation
+<a name="3d-shape-generation"></a>
 <details open>
 <summary>3D Shape Generation</summary>
 
@@ -67,12 +68,14 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 
 </details>
 
+<a name="articulated-object-generation"></a>
 <details open>
 <summary>Articulated Object Generation</summary>
 
 - [MeshArt: Generating Articulated Meshes with Structure-guided Transformers](https://arxiv.org/abs/2412.11596), Gao et al., arXiv 2024 | [Project](https://daoyig.github.io/Mesh_Art/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/embed/0XaHFbmb_FQ?si=xKZOdhQDNFMmUmm5) | [Data](https://syncandshare.lrz.de/getlink/fi4Moni3SkJJeFA8HAEZdR/release_v1)
 </details>
 
+<a name="automatic-rigging"></a>
 <details open>
 <summary>Automatic Rigging</summary>
 
@@ -80,6 +83,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., arXiv 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
 </details>
 
+<a name="motion-generation"></a>
 <details open>
 <summary>Motion Generation</summary>
 
@@ -95,18 +99,21 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [TM2T: Stochastical and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts](https://arxiv.org/abs/2207.01696), Guo et al., ECCV 2022 | [Project](https://ericguo5513.github.io/TM2T/) | [Code](https://github.com/EricGuo5513/TM2T)
 </details>
 
+<a name="4d-generation"></a>
 <details open>
 <summary>4D Generation</summary>
 
 - [AR4D: Autoregressive 4D Generation from Monocular Videos](https://arxiv.org/abs/2501.01722), Zhu et al., arXiv 2025 | [Project](https://hanxinzhu-lab.github.io/AR4D/)
 </details>
 
+<a name="camera-generation"></a>
 <details open>
 <summary>Camera Generation</summary>
 
 - [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083), Zhang et al., arXiv 2025 | [Project](https://kszpxxzmc.github.io/GenDoP/) | [Code](https://github.com/3DTopia/GenDoP)
 </details>
 
+<a name="garment-generation"></a>
 <details open>
 <summary>Garment Generation</summary>
 
@@ -115,6 +122,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](https://arxiv.org/abs/2401.16465), He et al., SIGGRAPH 2024 | [Project](https://ihe-kaii.github.io/DressCode/) | [Code](https://github.com/IHe-KaiI/DressCode) | [Video](https://www.youtube.com/watch?v=ofFyJBKL-Qg&feature=youtu.be)
 </details>
 
+<a name="cad-generation"></a>
 <details open>
 <summary>CAD Generation</summary>
 
