@@ -14,6 +14,14 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 (Source: <a href="https://buaacyw.github.io/meshanything-v2/">MeshAnythingV2</a>, <a href="https://daoyig.github.io/Mesh_Art/">MeshArt</a>, and <a href="https://chaoyuesong.github.io/MagicArticulate/">MagicArticulate</a>.)
 </p>
 
+<details span>
+<summary><b>Change Log:</b></summary>
+
+**Jun 6, 2025**: Add [HMAR](https://arxiv.org/pdf/2506.04421)(hierarchical masked ar for image generation), [MS_SR_VAR](https://arxiv.org/abs/2506.04990)(image super resolution), and [AliTok](https://github.com/ali-vilab/alitok)(align the token modeling between tokenizer and ar model)
+<br>
+</details>
+<br>
+
 ### 3D Generation
 <details open>
 <summary>3D shape generation</summary>
@@ -104,7 +112,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image generation</summary>
 
-
+- [AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model](https://arxiv.org/abs/2506.05289), Wu et al., arXiv 2025 | [Code](https://github.com/ali-vilab/alitok)
+- [HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](https://arxiv.org/abs/2506.04421), Kumbong et al., arXiv 2025
+- [Multi-scale Image Super Resolution with a Single Auto-Regressive Model](https://arxiv.org/abs/2506.04990), Sanchez et al., arXiv 2025 | [Code](https://github.com/saic-fi/ms_sr_var)
 - [ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL](https://arxiv.org/abs/2505.24875), Zhang et al., arXiv 2025 | [Project](https://reasongen-r1.github.io/) | [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
 - [REOrdering Patches Improves Vision Models](https://arxiv.org/abs/2505.23751), Kutscher et al., arXiv 2025 | [Project](https://d3tk.github.io/REOrder/) | [Code](https://github.com/d3tk/REOrder)
 - [D-AR: Diffusion via Autoregressive Models](https://arxiv.org/abs/2505.23660), Gao et al., arXiv 2025 | [Code](https://github.com/showlab/D-AR)
