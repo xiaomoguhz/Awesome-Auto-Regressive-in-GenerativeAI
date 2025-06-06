@@ -17,7 +17,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
-**Jun 6, 2025**: Add [HMAR](https://arxiv.org/pdf/2506.04421)(hierarchical masked ar for image generation), [MS_SR_VAR](https://arxiv.org/abs/2506.04990)(image super resolution), and [AliTok](https://github.com/ali-vilab/alitok)(align the token modeling between tokenizer and ar model)
+**Jun 6, 2025**: Add [HMAR](https://arxiv.org/pdf/2506.04421) (hierarchical masked ar for image generation), [MS_SR_VAR](https://arxiv.org/abs/2506.04990) (image super resolution), and [AliTok](https://github.com/ali-vilab/alitok) (align the token modeling between tokenizer and ar model)
 <br>
 </details>
 <br>
