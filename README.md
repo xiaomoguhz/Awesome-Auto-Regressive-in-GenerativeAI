@@ -31,6 +31,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Jun 18, 2025**: Add [Self Forcing](https://self-forcing.github.io/), [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html) and [Seaweed APT2](https://seaweed-apt.com/2) for videogen, [AR-RAG](https://arxiv.org/abs/2506.06962),
+[MADFormer](https://arxiv.org/abs/2506.07999), [SkipVAR](https://github.com/fakerone-li/SkipVAR), [TransDiff](https://arxiv.org/abs/2506.09482), [Pisces](https://arxiv.org/abs/2506.10395) and [SpectralAR](https://huang-yh.github.io/spectralar/) for image generation.
 **Jun 6, 2025**: Add [HMAR](https://arxiv.org/pdf/2506.04421) (hierarchical masked ar for image generation), [MS_SR_VAR](https://arxiv.org/abs/2506.04990) (image super resolution), and [AliTok](https://github.com/ali-vilab/alitok) (align the token modeling between tokenizer and ar model)
 <br>
 </details>
@@ -134,6 +136,12 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [AR-RAG: Autoregressive Retrieval Augmentation for Image Generation](https://arxiv.org/abs/2506.06962), Qi et al., arXiv 2025
+- [MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation](https://arxiv.org/abs/2506.07999), Chen et al., arXiv 2025
+- [SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping](https://arxiv.org/abs/2506.08908), Li et al., arXiv 2025 | [Code](https://github.com/fakerone-li/SkipVAR)
+- [Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression](https://arxiv.org/abs/2506.09482), Zhen et al., arXiv 2025 | [Code](https://github.com/TransDiff/TransDiff)
+- [Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation](https://arxiv.org/abs/2506.10395), Xu et al., arXiv 2025
+- [SpectralAR: Spectral Autoregressive Visual Generation](https://arxiv.org/abs/2506.10962), Huang et al., arXiv 2025 | [Project](https://huang-yh.github.io/spectralar/) | [Code](https://github.com/huang-yh/SpectralAR)
 - [AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model](https://arxiv.org/abs/2506.05289), Wu et al., arXiv 2025 | [Code](https://github.com/ali-vilab/alitok)
 - [HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](https://arxiv.org/abs/2506.04421), Kumbong et al., arXiv 2025
 - [Multi-scale Image Super Resolution with a Single Auto-Regressive Model](https://arxiv.org/abs/2506.04990), Sanchez et al., arXiv 2025 | [Code](https://github.com/saic-fi/ms_sr_var)
@@ -192,6 +200,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Video Generation</summary>
 
+- [Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation](https://arxiv.org/abs/2506.09350), Lin et al., arXiv 2025 | [Project](https://seaweed-apt.com/2)
+- [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion ](https://arxiv.org/pdf/2506.08009), Huang et al., arXiv 2025 | [Project](https://self-forcing.github.io/) | [Code](https://github.com/guandeh17/Self-Forcing)
+- [VideoMAR: Autoregressive Video Generation with Continuous Tokens](https://arxiv.org/pdf/2506.14168), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/VideoMAR.html)
 - [Video-GPT via Next Clip Diffusion](https://arxiv.org/abs/2505.12489), Zhuang et al., arXiv 2025 | [Project](https://zhuangshaobin.github.io/Video-GPT.github.io/) | [Code](https://github.com/zhuangshaobin/Video-GPT)
 - [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211), Sand.ai, arXiv 2025 | [Project](https://sand.ai/) | [Code](https://github.com/SandAI-org/MAGI-1)
 - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://arxiv.org/abs/2504.12626), Zhang et al., arXiv 2025 | [Code](https://github.com/lllyasviel/FramePack)
