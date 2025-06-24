@@ -22,6 +22,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
   - [Automatic Rigging](#automatic-rigging)  
   - [Motion Generation](#motion-generation)
   - [4D Generation](#4d-generation)  
+  - [Multi-View Generation](#multi-view-generation)
   - [Camera Generation](#camera-generation)
   - [Garment Generation](#garment-generation)  
   - [CAD Generation](#cad-generation)
@@ -31,13 +32,13 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Jun 24, 2025**: Add [MV-AR](http://arxiv.org/abs/2506.18527) for multi-view generation, [Make it Efficient](http://arxiv.org/abs/2506.18226) and [WMAR](https://arxiv.org/pdf/2506.16349) for image generation.
 **Jun 18, 2025**: Add [Self Forcing](https://self-forcing.github.io/), [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html) and [Seaweed APT2](https://seaweed-apt.com/2) for videogen, [AR-RAG](https://arxiv.org/abs/2506.06962),
 [MADFormer](https://arxiv.org/abs/2506.07999), [SkipVAR](https://github.com/fakerone-li/SkipVAR), [TransDiff](https://arxiv.org/abs/2506.09482), [Pisces](https://arxiv.org/abs/2506.10395) and [SpectralAR](https://huang-yh.github.io/spectralar/) for image generation. 
 <br>
 **Jun 6, 2025**: Add [HMAR](https://arxiv.org/pdf/2506.04421) (hierarchical masked ar for image generation), [MS_SR_VAR](https://arxiv.org/abs/2506.04990) (image super resolution), and [AliTok](https://github.com/ali-vilab/alitok) (align the token modeling between tokenizer and ar model)
 <br>
 </details>
-<br>
 
 ### 3D Generation
 <a name="3d-shape-generation"></a>
@@ -109,6 +110,14 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [AR4D: Autoregressive 4D Generation from Monocular Videos](https://arxiv.org/abs/2501.01722), Zhu et al., arXiv 2025 | [Project](https://hanxinzhu-lab.github.io/AR4D/)
 </details>
 
+<a name="multi-view-generation"></a>
+<details open>
+<summary>Multi-View Generation</summary>
+
+- [Auto-Regressively Generating Multi-View Consistent Images](https://arxiv.org/abs/2506.18527), Hu et al., arXiv 2025
+</details>
+
+
 <a name="camera-generation"></a>
 <details open>
 <summary>Camera Generation</summary>
@@ -137,6 +146,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+
+- [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226), Xiang et al., arXiv 2025
+- [Watermarking Autoregressive Image Generation](https://arxiv.org/abs/2506.16349), Jovanović et al., arXiv 2025 | [Code](https://github.com/facebookresearch/wmar)
 - [AR-RAG: Autoregressive Retrieval Augmentation for Image Generation](https://arxiv.org/abs/2506.06962), Qi et al., arXiv 2025
 - [MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation](https://arxiv.org/abs/2506.07999), Chen et al., arXiv 2025
 - [SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping](https://arxiv.org/abs/2506.08908), Li et al., arXiv 2025 | [Code](https://github.com/fakerone-li/SkipVAR)
