@@ -33,6 +33,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <summary><b>Change Log:</b></summary>
 
 **Jun 24, 2025**: Add [MV-AR](http://arxiv.org/abs/2506.18527) for multi-view generation, [Make it Efficient](http://arxiv.org/abs/2506.18226) and [WMAR](https://arxiv.org/pdf/2506.16349) for image generation.
+<br>
 **Jun 18, 2025**: Add [Self Forcing](https://self-forcing.github.io/), [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html) and [Seaweed APT2](https://seaweed-apt.com/2) for videogen, [AR-RAG](https://arxiv.org/abs/2506.06962),
 [MADFormer](https://arxiv.org/abs/2506.07999), [SkipVAR](https://github.com/fakerone-li/SkipVAR), [TransDiff](https://arxiv.org/abs/2506.09482), [Pisces](https://arxiv.org/abs/2506.10395) and [SpectralAR](https://huang-yh.github.io/spectralar/) for image generation. 
 <br>
