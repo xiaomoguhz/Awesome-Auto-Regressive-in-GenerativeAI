@@ -26,12 +26,14 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
   - [Camera Generation](#camera-generation)
   - [Garment Generation](#garment-generation)  
   - [CAD Generation](#cad-generation)
+  - [Autonomous Driving](#autonomous-driving)
 - [Image Generation](#image-generation)
 - [Video Generation](#video-generation)
 
 <details span>
 <summary><b>Change Log:</b></summary>
-
+**Jul 1, 2025**: Add [Epona](https://arxiv.org/abs/2506.24113) and [InfGen](https://metadriverse.github.io/infgen/) for autonomous driving, [CycleVAR](https://arxiv.org/abs/2506.23347) for image translation.
+<br>
 **Jun 24, 2025**: Add [MV-AR](http://arxiv.org/abs/2506.18527) for multi-view generation, [Make it Efficient](http://arxiv.org/abs/2506.18226) and [WMAR](https://arxiv.org/pdf/2506.16349) for image generation.
 <br>
 **Jun 18, 2025**: Add [Self Forcing](https://self-forcing.github.io/), [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html) and [Seaweed APT2](https://seaweed-apt.com/2) for videogen, [AR-RAG](https://arxiv.org/abs/2506.06962),
@@ -142,12 +144,20 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632), Xu et al., ICML 2022 | [Project](https://samxuxiang.github.io/skexgen/) | [Code](https://github.com/samxuxiang/SkexGen) | [Video](https://www.youtube.com/watch?v=j5LB7yMwNVE)
 </details>
 
+<a name="autonomous-driving"></a>
+<details open>
+<summary>Autonomous Driving</summary>
+
+- [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113), Zhang et al., arXiv 2025
+- [InfGen: Scenario Generation as Next Token Group Prediction](https://arxiv.org/abs/2506.23316), Peng et al., arXiv 2025 | [Project](https://metadriverse.github.io/infgen/) | [Code](https://github.com/metadriverse/infgen)
+</details>
+
 ### Image Generation
 
 <details open>
 <summary>Image Generation</summary>
 
-
+- [CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation](https://arxiv.org/abs/2506.23347), Liu et al., arXiv 2025
 - [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226), Xiang et al., arXiv 2025
 - [Watermarking Autoregressive Image Generation](https://arxiv.org/abs/2506.16349), Jovanović et al., arXiv 2025 | [Code](https://github.com/facebookresearch/wmar)
 - [AR-RAG: Autoregressive Retrieval Augmentation for Image Generation](https://arxiv.org/abs/2506.06962), Qi et al., arXiv 2025
