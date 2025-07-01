@@ -32,6 +32,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 
 <details span>
 <summary><b>Change Log:</b></summary>
+
 **Jul 1, 2025**: Add [Epona](https://arxiv.org/abs/2506.24113) and [InfGen](https://metadriverse.github.io/infgen/) for autonomous driving, [CycleVAR](https://arxiv.org/abs/2506.23347) for image translation.
 <br>
 **Jun 24, 2025**: Add [MV-AR](http://arxiv.org/abs/2506.18527) for multi-view generation, [Make it Efficient](http://arxiv.org/abs/2506.18226) and [WMAR](https://arxiv.org/pdf/2506.16349) for image generation.
