@@ -33,6 +33,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Jul 13, 2025**: Add [OmniPart](https://omnipart.github.io/) and [Mesh Silksong](https://gaochao-s.github.io/pages/MeshSilksong/) for 3D generation, [DC-AR](https://arxiv.org/abs/2507.04947), [Hita](https://arxiv.org/abs/2507.02358), [LASADGen](https://arxiv.org/abs/2507.01652) and [LPD](https://github.com/mit-han-lab/lpd) for image generation.
+<br>
 **Jul 1, 2025**: Add [Epona](https://arxiv.org/abs/2506.24113) and [InfGen](https://metadriverse.github.io/infgen/) for autonomous driving, [CycleVAR](https://arxiv.org/abs/2506.23347) for image translation.
 <br>
 **Jun 24, 2025**: Add [MV-AR](http://arxiv.org/abs/2506.18527) for multi-view generation, [Make it Efficient](http://arxiv.org/abs/2506.18226) and [WMAR](https://arxiv.org/pdf/2506.16349) for image generation.
@@ -49,7 +51,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D Shape Generation</summary>
 
-
+- [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion](https://arxiv.org/abs/2507.06165), Yang et al., arXiv 2025 | [Project](https://omnipart.github.io/)
+- [Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk](https://arxiv.org/abs/2507.02477), Song et al., arXiv 2025 | [Project](https://gaochao-s.github.io/pages/MeshSilksong/) | [Code](https://github.com/gaochao-s/Mesh-Silksong)
 - [LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework](https://arxiv.org/abs/2505.24245), Kang et al., arXiv 2025
 - [OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation](https://arxiv.org/abs/2504.09975), Wei et al., SIGGRAPH 2025 | [Code](https://github.com/octree-nn/octgpt)
 - [Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization](https://arxiv.org/abs/2504.02817), Deng et al., arXiv 2025 | [Project](https://oat-3d.github.io/)
@@ -64,7 +67,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes](https://arxiv.org/abs/2411.19037), Medi et al., arXiv 2024 
 - [Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025), Weng et al., arXiv 2024 | [Project](https://whaohan.github.io/bpt/) | [Code](https://github.com/whaohan/bpt)
 - [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., ICLR 2025 | [Project](https://research.nvidia.com/labs/dir/edgerunner/) | [Code](https://github.com/NVlabs/EdgeRunner)
-- [MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [Project](https://buaacyw.github.io/meshanything-v2/) | [Code](https://github.com/buaacyw/MeshAnythingV2) | [Video]()
+- [MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [Project](https://buaacyw.github.io/meshanything-v2/) | [Code](https://github.com/buaacyw/MeshAnythingV2)
 - [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., ICLR 2025 | [Project](https://buaacyw.github.io/mesh-anything/) | [Code](https://github.com/buaacyw/MeshAnything)
 - [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., NeurIPS 2024 | [Project](https://meshxl.github.io/) | [Code](https://github.com/OpenMeshLab/MeshXL)
 - [Pivotmesh: Generic 3d mesh generation via pivot vertices guidance.](https://arxiv.org/abs/2405.16890), Weng et al., ICLR 2025 | [Project](https://whaohan.github.io/pivotmesh/) | [Code](https://github.com/whaohan/pivotmesh)
@@ -158,6 +161,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/abs/2507.04947), Wu et al., ICCV 2025 | [Code](https://github.com/dc-ai-projects/DC-AR)
+- [Holistic Tokenizer for Autoregressive Image Generation](https://arxiv.org/abs/2507.02358), Zheng et al., arXiv 2025 | [Code](https://github.com/CVMI-Lab/Hita)
+- [Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective](https://arxiv.org/abs/2507.01652), Mao et al., arXiv 2025
+- [Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation](https://arxiv.org/abs/2507.01957), Zhang et al., arXiv 2025 | [Code](https://github.com/mit-han-lab/lpd)
 - [CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation](https://arxiv.org/abs/2506.23347), Liu et al., arXiv 2025
 - [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226), Xiang et al., arXiv 2025
 - [Watermarking Autoregressive Image Generation](https://arxiv.org/abs/2506.16349), Jovanović et al., arXiv 2025 | [Code](https://github.com/facebookresearch/wmar)
