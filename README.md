@@ -238,7 +238,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Video Generation</summary>
 
--[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801), Yuan er al., arXiv 2025 | [Code](https://github.com/alibaba-damo-academy/Lumos)
+- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801), Yuan er al., arXiv 2025 | [Code](https://github.com/alibaba-damo-academy/Lumos)
 - [Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation](https://arxiv.org/abs/2506.09350), Lin et al., arXiv 2025 | [Project](https://seaweed-apt.com/2)
 - [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion ](https://arxiv.org/pdf/2506.08009), Huang et al., arXiv 2025 | [Project](https://self-forcing.github.io/) | [Code](https://github.com/guandeh17/Self-Forcing)
 - [VideoMAR: Autoregressive Video Generation with Continuous Tokens](https://arxiv.org/pdf/2506.14168), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/VideoMAR.html)
