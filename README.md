@@ -33,6 +33,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Jul 25, 2025**: Add [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) for video generation, [MENTOR](https://haozhezhao.github.io/MENTOR.page/), [CSD-VAR](https://arxiv.org/abs/2507.13984), [Lumina-mGPT 2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [TTS-VAR](https://github.com/ali-vilab/TTS-VAR) for image generation/modeling.
+<br>
 **Jul 13, 2025**: Add [OmniPart](https://omnipart.github.io/) and [Mesh Silksong](https://gaochao-s.github.io/pages/MeshSilksong/) for 3D generation, [DC-AR](https://arxiv.org/abs/2507.04947), [Hita](https://arxiv.org/abs/2507.02358), [LASADGen](https://arxiv.org/abs/2507.01652) and [LPD](https://github.com/mit-han-lab/lpd) for image generation.
 <br>
 **Jul 1, 2025**: Add [Epona](https://arxiv.org/abs/2506.24113) and [InfGen](https://metadriverse.github.io/infgen/) for autonomous driving, [CycleVAR](https://arxiv.org/abs/2506.23347) for image translation.
@@ -161,6 +163,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](https://arxiv.org/abs/2507.17801), Xin et al., arXiv 2025 | [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
+- [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537), Chen et al., arXiv 2025 | [Code](https://github.com/ali-vilab/TTS-VAR)
+- [CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/abs/2507.13984), Nguyen et al., ICCV 2025 
+- [MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation Models](https://arxiv.org/abs/2507.09574), Zhao et al., arXiv 2025 | [Project](https://haozhezhao.github.io/MENTOR.page/) | [Code](https://github.com/HaozheZhao/MENTOR)
 - [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/abs/2507.04947), Wu et al., ICCV 2025 | [Code](https://github.com/dc-ai-projects/DC-AR)
 - [Holistic Tokenizer for Autoregressive Image Generation](https://arxiv.org/abs/2507.02358), Zheng et al., arXiv 2025 | [Code](https://github.com/CVMI-Lab/Hita)
 - [Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective](https://arxiv.org/abs/2507.01652), Mao et al., arXiv 2025
@@ -232,6 +238,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Video Generation</summary>
 
+-[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801), Yuan er al., arXiv 2025 | [Code](https://github.com/alibaba-damo-academy/Lumos)
 - [Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation](https://arxiv.org/abs/2506.09350), Lin et al., arXiv 2025 | [Project](https://seaweed-apt.com/2)
 - [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion ](https://arxiv.org/pdf/2506.08009), Huang et al., arXiv 2025 | [Project](https://self-forcing.github.io/) | [Code](https://github.com/guandeh17/Self-Forcing)
 - [VideoMAR: Autoregressive Video Generation with Continuous Tokens](https://arxiv.org/pdf/2506.14168), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/VideoMAR.html)
