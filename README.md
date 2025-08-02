@@ -33,6 +33,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Aug 2, 2025**: Add [XSpecMesh](https://arxiv.org/abs/2507.23777) for 3D generation, [SCALAR](https://arxiv.org/abs/2507.19946) and [X-Omni](https://x-omni-team.github.io/) for image generation.
+<br>
 **Jul 25, 2025**: Add [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) for video generation, [MENTOR](https://haozhezhao.github.io/MENTOR.page/), [CSD-VAR](https://arxiv.org/abs/2507.13984), [Lumina-mGPT 2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [TTS-VAR](https://github.com/ali-vilab/TTS-VAR) for image generation/modeling.
 <br>
 **Jul 13, 2025**: Add [OmniPart](https://omnipart.github.io/) and [Mesh Silksong](https://gaochao-s.github.io/pages/MeshSilksong/) for 3D generation, [DC-AR](https://arxiv.org/abs/2507.04947), [Hita](https://arxiv.org/abs/2507.02358), [LASADGen](https://arxiv.org/abs/2507.01652) and [LPD](https://github.com/mit-han-lab/lpd) for image generation.
@@ -53,6 +55,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D Shape Generation</summary>
 
+- [XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding](https://arxiv.org/abs/2507.23777), Chen et al., arXiv 2025 
 - [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion](https://arxiv.org/abs/2507.06165), Yang et al., arXiv 2025 | [Project](https://omnipart.github.io/)
 - [Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk](https://arxiv.org/abs/2507.02477), Song et al., arXiv 2025 | [Project](https://gaochao-s.github.io/pages/MeshSilksong/) | [Code](https://github.com/gaochao-s/Mesh-Silksong)
 - [LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework](https://arxiv.org/abs/2505.24245), Kang et al., arXiv 2025
@@ -163,6 +166,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/pdf/2507.22058), Geng et al., arXiv 2025 | [Project](https://x-omni-team.github.io/) | [Code](https://github.com/X-Omni-Team/X-Omni)
+- [SCALAR: Scale-wise Controllable Visual Autoregressive LeARning](https://arxiv.org/abs/2507.19946), Xu et al., arXiv 2025
 - [Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](https://arxiv.org/abs/2507.17801), Xin et al., arXiv 2025 | [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
 - [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537), Chen et al., arXiv 2025 | [Code](https://github.com/ali-vilab/TTS-VAR)
 - [CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/abs/2507.13984), Nguyen et al., ICCV 2025 
