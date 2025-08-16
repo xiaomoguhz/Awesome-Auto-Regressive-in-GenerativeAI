@@ -33,6 +33,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Aug 16, 2025**: Add [Puppeteer](https://chaoyuesong.github.io/Puppeteer/) for automatic rigging and animation, [NextStep-1](https://stepfun.ai/research/en/nextstep1), [GSD](https://github.com/junhyukso/GSD), [CoAR](https://github.com/KZF-kzf/CoAR) and [AR-GRPO] (https://github.com/Kwai-Klear/AR-GRPO) for image generation.
+<br>
 **Aug 2, 2025**: Add [XSpecMesh](https://arxiv.org/abs/2507.23777) for 3D generation, [SCALAR](https://arxiv.org/abs/2507.19946) and [X-Omni](https://x-omni-team.github.io/) for image generation.
 <br>
 **Jul 25, 2025**: Add [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) for video generation, [MENTOR](https://haozhezhao.github.io/MENTOR.page/), [CSD-VAR](https://arxiv.org/abs/2507.13984), [Lumina-mGPT 2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [TTS-VAR](https://github.com/ali-vilab/TTS-VAR) for image generation/modeling.
@@ -95,8 +97,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Automatic Rigging</summary>
 
+- [Puppeteer: Rig and Animate Your 3D Models](https://arxiv.org/abs/2508.10898), Song et al., arXiv 2025 | [Project](https://chaoyuesong.github.io/Puppeteer/) | [Code](https://github.com/Seed3D/Puppeteer) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
 - [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Song et al., CVPR 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
-- [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., arXiv 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
+- [One Model to Rig Them All: Diverse Skeleton Rigging with UniRig](https://arxiv.org/abs/2504.12451), Zhang et al., SIGGRAPH 2025 | [Project](https://zjp-shadow.github.io/works/UniRig/) | [Code](https://github.com/VAST-AI-Research/UniRig)
+- [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., SIGGRAPH 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
 </details>
 
 <a name="motion-generation"></a>
@@ -166,6 +170,10 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711), NextStep-Team, arXiv 2025 | [Project](https://stepfun.ai/research/en/nextstep1) | [Code](https://github.com/stepfun-ai/NextStep-1)
+- [Grouped Speculative Decoding for Autoregressive Image Generation](https://arxiv.org/pdf/2508.07747), So et al., ICCV 2025 | [Code](https://github.com/junhyukso/GSD)
+- [CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation](https://arxiv.org/pdf/2508.07341), Wu et al., arXiv 2025 | [Code](https://github.com/KZF-kzf/CoAR)
+- [AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning](https://arxiv.org/pdf/2508.06924), Yuan et al., arXiv 2025 | [Code](https://github.com/Kwai-Klear/AR-GRPO)
 - [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/pdf/2507.22058), Geng et al., arXiv 2025 | [Project](https://x-omni-team.github.io/) | [Code](https://github.com/X-Omni-Team/X-Omni)
 - [SCALAR: Scale-wise Controllable Visual Autoregressive LeARning](https://arxiv.org/abs/2507.19946), Xu et al., arXiv 2025
 - [Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](https://arxiv.org/abs/2507.17801), Xin et al., arXiv 2025 | [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
