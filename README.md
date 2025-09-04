@@ -33,6 +33,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Sep 4, 2025**: Add [OneCAT](https://onecat-ai.github.io/) for image understanding and generation. 
 **Aug 16, 2025**: Add [Puppeteer](https://chaoyuesong.github.io/Puppeteer/) for automatic rigging and animation, [NextStep-1](https://stepfun.ai/research/en/nextstep1), [GSD](https://github.com/junhyukso/GSD), [CoAR](https://github.com/KZF-kzf/CoAR) and [AR-GRPO] (https://github.com/Kwai-Klear/AR-GRPO) for image generation.
 <br>
 **Aug 2, 2025**: Add [XSpecMesh](https://arxiv.org/abs/2507.23777) for 3D generation, [SCALAR](https://arxiv.org/abs/2507.19946) and [X-Omni](https://x-omni-team.github.io/) for image generation.
@@ -170,6 +171,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Image Generation</summary>
 
+- [OneCAT: Unified Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](https://arxiv.org/pdf/2509.03498), Li et al., arXiv 2025 | [Project](https://onecat-ai.github.io/) | [Code](https://github.com/onecat-ai/onecat)
 - [NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711), NextStep-Team, arXiv 2025 | [Project](https://stepfun.ai/research/en/nextstep1) | [Code](https://github.com/stepfun-ai/NextStep-1)
 - [Grouped Speculative Decoding for Autoregressive Image Generation](https://arxiv.org/pdf/2508.07747), So et al., ICCV 2025 | [Code](https://github.com/junhyukso/GSD)
 - [CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation](https://arxiv.org/pdf/2508.07341), Wu et al., arXiv 2025 | [Code](https://github.com/KZF-kzf/CoAR)
