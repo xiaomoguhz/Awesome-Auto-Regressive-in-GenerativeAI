@@ -34,7 +34,9 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <summary><b>Change Log:</b></summary>
 
 **Sep 11, 2025**: Add [SMooGPT](https://arxiv.org/abs/2509.04058) for motion generation, and [CausNVS](https://kxhit.github.io/CausNVS.html) for novel view synthesis.
+<br>
 **Sep 4, 2025**: Add [OneCAT](https://onecat-ai.github.io/) for image understanding and generation. 
+<br>
 **Aug 16, 2025**: Add [Puppeteer](https://chaoyuesong.github.io/Puppeteer/) for automatic rigging and animation, [NextStep-1](https://stepfun.ai/research/en/nextstep1), [GSD](https://github.com/junhyukso/GSD), [CoAR](https://github.com/KZF-kzf/CoAR) and [AR-GRPO] (https://github.com/Kwai-Klear/AR-GRPO) for image generation.
 <br>
 **Aug 2, 2025**: Add [XSpecMesh](https://arxiv.org/abs/2507.23777) for 3D generation, [SCALAR](https://arxiv.org/abs/2507.19946) and [X-Omni](https://x-omni-team.github.io/) for image generation.
