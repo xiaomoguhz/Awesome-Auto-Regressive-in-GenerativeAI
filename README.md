@@ -33,6 +33,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Sep 11, 2025**: Add [SMooGPT](https://arxiv.org/abs/2509.04058) for motion generation, and [CausNVS](https://kxhit.github.io/CausNVS.html) for novel view synthesis.
 **Sep 4, 2025**: Add [OneCAT](https://onecat-ai.github.io/) for image understanding and generation. 
 **Aug 16, 2025**: Add [Puppeteer](https://chaoyuesong.github.io/Puppeteer/) for automatic rigging and animation, [NextStep-1](https://stepfun.ai/research/en/nextstep1), [GSD](https://github.com/junhyukso/GSD), [CoAR](https://github.com/KZF-kzf/CoAR) and [AR-GRPO] (https://github.com/Kwai-Klear/AR-GRPO) for image generation.
 <br>
@@ -108,6 +109,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Motion Generation</summary>
 
+- [SMooGPT: Stylized Motion Generation using Large Language Models](https://arxiv.org/abs/2509.04058), Zhong et al., arXiv 2025
 - [Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion](https://arxiv.org/abs/2505.11013), Zhang et al., arXiv 2025
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/abs/2502.20323), Chu et al., arXiv 2025 | [Project](https://xg-chu.site/project_artalk/)
 - [ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model](https://arxiv.org/abs/2412.14559), Lu et al., arXiv 2024 | [Project](https://shunlinlu.github.io/ScaMo/) | [Code](https://github.com/shunlinlu/ScaMo_code)
@@ -131,6 +133,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Multi-View Generation</summary>
 
+- [CausNVS: Autoregressive Multi-view Diffusion for Flexible 3D Novel View Synthesis](https://arxiv.org/abs/2509.06579), Kong et al., arXiv 2025 | [Project](https://kxhit.github.io/CausNVS.html)
 - [Auto-Regressively Generating Multi-View Consistent Images](https://arxiv.org/abs/2506.18527), Hu et al., arXiv 2025
 </details>
 
